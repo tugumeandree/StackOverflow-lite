@@ -2,7 +2,7 @@
 StackOverflow-lite is a platform where people can ask questions and provide answers.
 
 ## Heroku deployment
-> **[Check it out](https://stackoverflow-paul.herokuapp.com/)**
+> **[Check it out](https://stackoverflow-andrew.herokuapp.com/)**
 
 [![Build Status](https://travis-ci.org/p8ul/stackoverflow-lite.svg?branch=challenge2)](https://travis-ci.org/p8ul/stackoverflow-lite)
 [![Coverage Status](https://coveralls.io/repos/github/p8ul/stackoverflow-lite/badge.svg?branch=B%2Fhome)](https://coveralls.io/github/p8ul/stackoverflow-lite?branch=B%2Fhome)
@@ -95,11 +95,6 @@ POST | `/api/v1/questions/answers/vote/{answer_id}` | Upvote/DownVote an answer
 POST | `/api/v1/questions/answers/comment/{answer_id}` | Comment on an answer
 
 
-## Credits
-This challenge was part of the Bootcamp 31 NBO Andela.
-
-Credits to [Avinash Tripathi](https://dribbble.com/nashatwork) for an awesome [Stackoverflow redesign concept](https://dribbble.com/shots/2876030-Stackoverflow-redesign?_=1535432246078&utm_source=Clipboard_Shot&utm_campaign=nashatwork&utm_content=Stackoverflow%20redesign&utm_medium=Social_Share). Helped in comming up with some dashboard UI components.
-
 ## Author
-Paul Kinuthia.
+Tugume Andrew.
 
