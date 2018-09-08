@@ -2,7 +2,7 @@
 StackOverflow-lite is a platform where people can ask questions and provide answers.
 
 ## Heroku deployment
-> **[Check it out](https://stackoverflow-andrew.herokuapp.com/)**
+> **[Check it out](https://glacial-hollows-39156.herokuapp.com/)**
 
 [![Build Status](https://travis-ci.org/p8ul/stackoverflow-lite.svg?branch=challenge2)](https://travis-ci.org/p8ul/stackoverflow-lite)
 [![Coverage Status](https://coveralls.io/repos/github/p8ul/stackoverflow-lite/badge.svg?branch=B%2Fhome)](https://coveralls.io/github/p8ul/stackoverflow-lite?branch=B%2Fhome)
